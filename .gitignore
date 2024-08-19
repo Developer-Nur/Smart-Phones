@@ -12,6 +12,7 @@ smart-phone-client/.env.local
 
 smart-phone-server/node_modules
 smart-phone-server/.env
+smart-phone-server/.firebase
 
 smart-phone-client/dist
 smart-phone-client/dist-ssr
